@@ -1,4 +1,4 @@
-# Credit card fraud detection - Encoder decoder neural network architecture
+# Credit card fraud detection - Autoencoder neural network architecture
 
 Autoencoders are a special type of neural network architectures in which the output is same as the input. Autoencoders are
 trained in an unsupervised manner in order to learn the exteremely low level repersentations of the input data. These low
